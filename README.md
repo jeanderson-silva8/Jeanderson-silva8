@@ -92,6 +92,14 @@ Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a pon
 |:--|
 | Motor de Curadoria de Tendências Full Stack com tRPC, Drizzle ORM e TiDB Serverless. Busca em tempo real via Serper.dev API, cache inteligente, rate limiting e UI premium com Glassmorphism e skeleton loading. |
 
+| **[FlowSnyker](https://github.com/jeanderson-silva8/FlowSnyker)** |
+|:--|
+| SaaS de Kanban Colaborativo em tempo real via Socket.io. Sincronização milissegundo a milissegundo entre clientes conectados. Arquitetura complexa de estado (Zustand + Dnd-Kit) com Optimistic Updates. Segurança via Argon2id, autenticação estrita de Sockets e proteção IDOR. |
+
+| **[Protocolo de Segurança](https://github.com/jeanderson-silva8/protocolo-de-seguranca)** |
+|:--|
+| Framework próprio e open-source de auditoria de segurança (AppSec). Conta com checklist universal, adendos por contexto (WebSockets, LLM), prompts para análise via IA e workflow retroalimentado a cada bug mitigado em produção real. |
+
 ---
 
 ### 📊 Progresso Tecnológico
