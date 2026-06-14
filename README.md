@@ -18,13 +18,18 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack na construção de ecossistemas digitais de ponta a ponta. Atuo orquestrando arquiteturas SaaS robustas que processam automações massivas no Backend sem comprometer a estabilidade, interligando a interfaces Frontends construídas sob rigorosas métricas de UI/UX (Cinemáticas).
+### ## 👨‍💻 Sobre Mim
 
-* 🚀 **Foco Atual:** Arquitetura de Software Escalável, Criação de Interfaces de Alto Impacto (UI/UX) e Engenharia Full Stack de Ponta a Ponta.
-* ⚙️ **Core Stack:** TypeScript, React (Ecosystem), Python, Django, Tailwind, GraphQL, e PostgreSQL.
-* ☁️ **DevOps & Infra:** Docker, Pipelines CI/CD com Github Actions, Deploy Zero-downtime, Vps em Nuvem (AWS/DO).
-* 💡 **Filosofia:** *"Código limpo e interfaces de alto padrão técnico não são bônus, são requisitos mútuos."*
+Desenvolvedor Full-Stack que constrói produtos completos e audita o que constrói. Combino engenharia de software com prática deliberada de **segurança aplicada** — autor do **Protocolo de Segurança**, framework próprio de auditoria de código com 61 perguntas-teste versionadas e 10 auditorias publicadas neste GitHub.
+
+Cada projeto que entrego inclui modelagem de ameaças (THREAT_MODEL), ADRs documentando trade-offs conscientes, e a seção "o que NÃO está implementado e por quê" — porque honestidade técnica é parte da entrega, não detalhe à parte.
+
+- 🎯 **Foco atual:** Full-Stack + IA Aplicada + Segurança de Sistemas com LLM
+- 🧱 **Stack principal:** TypeScript, React, Node.js (Express, Hono), Python (Django), MongoDB, PostgreSQL, GraphQL, tRPC
+- 🤖 **IA aplicada:** Integração com LLMs (Groq, Anthropic, OpenAI), modelos de imagem (fal.ai/FLUX), defesa contra prompt injection, validação de output via Zod
+- 🔒 **Segurança:** JWT (HS256 explícito, refresh rotation com detecção de reuso), Argon2id, cookies httpOnly, CSP estrita, defesa contra IDOR, supply chain auditing
+- 🛠️ **Infra:** Docker multi-stage, GitHub Actions (CI com lint + audit + gitleaks + smoke tests), Vercel Serverless, Caddy
+- 💭 **Filosofia:** Código que vai pra produção precisa carregar threat model, ADRs e honestidade sobre suas limitações.
 
 ---
 
