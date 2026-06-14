@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engenharia+de+Software+com+padrão+de+excelência;%2B12+projetos+Full+Stack+em+produção+real;Do+banco+de+dados+ao+pixel+%E2%80%94+entrego+o+sistema+inteiro;React+%2B+Node+%2B+Python+%2B+Docker+%3D+seu+próximo+dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%9B%A1%EF%B8%8F+Construo+e+audito+o+que+construo;%F0%9F%94%92+Autor+do+Protocolo+de+Seguran%C3%A7a+%E2%80%94+10+auditorias+publicadas;%F0%9F%92%BB+Do+banco+ao+pixel+%E2%80%94+com+THREAT_MODEL+e+ADRs+em+cada+projeto;%F0%9F%A4%96+Full-Stack+%2B+IA+Aplicada+%2B+Seguran%C3%A7a+de+Sistemas+com+LLM;%F0%9F%A4%9D+Honestidade+t%C3%A9cnica+%C3%A9+parte+da+entrega%2C+n%C3%A3o+detalhe+%C3%A0+parte" alt="Typing SVG" />
   </a>
 </div>
 
